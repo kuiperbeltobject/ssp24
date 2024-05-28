@@ -8,7 +8,9 @@
       {{ partial "footer.html" . }}
     {{ end }}
     {{ partial "scripts.html" . }}
-    <script type="text/javascript" src="/js/carousel.js"></script>
+    {{ $js := resources.Get "js/carousel.js" }}
+    {{ $file := $js | resources.Minify }}
+    <script type="text/javascript" src="{{ $file.Permalink }}"></script>
     <link rel="stylesheet" href="/css/carousel.css">
   </body>
 </html>
