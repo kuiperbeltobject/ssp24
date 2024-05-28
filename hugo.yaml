@@ -57,8 +57,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/ssp.png
-      dark: images/ssp-dark.png
+      path: ssp.png
+      dark: ssp-dark.png
       link: https://summerscience.org
 
   footer:
