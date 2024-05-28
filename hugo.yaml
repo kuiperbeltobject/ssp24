@@ -45,6 +45,12 @@ menu:
       url: "https://github.com/kuiperbeltobject/ssp24"
       params:
         icon: github
+    - name: SSP Website
+      weight: 9
+      url: "https://summerscience.org"
+      params:
+        path: ssp.png
+        dark: ssp-dark.png
 
 params:
   page:
@@ -55,11 +61,7 @@ params:
   
   navbar:
     displayTitle: true
-    displayLogo: true
-    logo:
-      path: ssp.png
-      dark: ssp-dark.png
-      link: https://summerscience.org
+    displayLogo: false
 
   footer:
     displayCopyright: false
