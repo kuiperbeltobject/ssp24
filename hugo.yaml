@@ -62,6 +62,8 @@ params:
     logo:
       path: ssp.png
       dark: ssp-dark.png
+      height: 60
+      width: 60
 
   footer:
     displayCopyright: false
