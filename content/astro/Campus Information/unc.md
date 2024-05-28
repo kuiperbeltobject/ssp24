@@ -14,4 +14,4 @@ sidebar:
 
 ## Campus Information
 {{< image-gallery gallery_dir="/unc" >}}
-{{ partial "carousel.html" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "7000") }}
+{{< icon "location-marker" >}} **Chapel Hill, NC**
