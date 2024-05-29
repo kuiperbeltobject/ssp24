@@ -26,23 +26,47 @@ Dr. Jennifer Rosenthal              | Site Director                 | Instructor
 
 ## Students
 {{% details title="Full Student List" closed="true" %}}
-    {{% columns %}}
-
-    #### Title 1
-
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-
-    <--->
-
-    #### Title 2
-
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-
-    <--->
-
-    #### Title 3
-
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[^columntest]
-
-    {{% /columns %}}
+    - Adam
+    - Aiman
+    - Alyssa
+    - Cibi
+    - Cindy
+    - Clayryss
+    - Emily
+    - Emma
+    - Emma
+    - Eve
+    - George
+    - George
+    - Idil
+    - Jay
+    - Jia
+    - Katie
+    - Keb
+    - Kennice
+    - Kira
+    - Lara
+    - Luca
+    - Malachi
+    - Matek
+    - Mateo
+    - Noah
+    - Rahil
+    - Rain Jha
+    - Riddhi
+    - Riya
+    - Sharv
+    - Simran
+    - Vincent
+    - Vivi
+    - Zihan
 {{% /details %}}
+
+### Personal Student Pages
+{{< callout type="info" >}}
+  To jumpstart your own personal page, please fill out [this form](https://forms.gle/s1V3k5tkwCVpmKxc6).
+{{< /callout >}}
+*None yet... maybe introduce yourself?*
+
+## Nearby Places
+### Food
