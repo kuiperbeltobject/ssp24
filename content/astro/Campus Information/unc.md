@@ -32,10 +32,6 @@ Dr. Jennifer Rosenthal              | Site Director                 | Instructor
 
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 
-    {{< hint warning >}}
-    Example text that *may* contain **markdown** `markup`.
-    {{< /hint >}}
-
     <--->
 
     #### Title 2
