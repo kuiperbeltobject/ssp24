@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## Flight Details
-**Airport: Raleigh-Durham RDU**
+{{< icon "airplane" >}} **Airport: Raleigh-Durham RDU**
 
 **Arrive Sunday, June 9 – Depart Wednesday, July 17**
 
@@ -14,7 +14,7 @@ sidebar:
 
 ## Campus Information
 {{< icon "location-marker" >}} **Chapel Hill, NC**
-{{< image-gallery gallery_dir="/unc" >}}
+{{< image-gallery gallery_dir="/cphotos/unc" >}}
 
 ## Faculty
    Name                             | Position                      | Occupation | Education
