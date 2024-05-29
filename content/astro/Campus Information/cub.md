@@ -1,5 +1,5 @@
 ---
-title: University of California, Boulder
+title: University of Colorado, Boulder
 type: docs
 sidebar:
   open: true
