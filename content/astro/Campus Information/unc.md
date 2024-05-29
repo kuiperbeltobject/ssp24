@@ -70,3 +70,4 @@ Dr. Jennifer Rosenthal              | Site Director                 | Instructor
 
 ## Nearby Places
 ### Food
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1RlQ3J3kchsVRwgNxmQSaZc4AxP0HOfo&ehbc=2E312F" width="640" height="480"></iframe>
