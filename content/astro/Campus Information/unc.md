@@ -52,7 +52,7 @@ Dr. Jennifer Rosenthal              | Site Director                 | Instructor
     - Mateo
     - Noah
     - Rahil
-    - Rain Jha
+    - Rain
     - Riddhi
     - Riya
     - Sharv
