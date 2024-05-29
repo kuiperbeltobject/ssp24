@@ -26,40 +26,27 @@ Dr. Jennifer Rosenthal              | Site Director                 | Instructor
 
 ## Students
 {{% details title="Full Student List" closed="true" %}}
-    <ul class="studentlist">
-        <li>Adam</li>
-        <li>Aiman</li>
-        <li>Alyssa</li>
-        <li>Cibi</li>
-        <li>Cindy</li>
-        <li>Clayryss</li>
-        <li>Emily</li>
-        <li>Emma</li>
-        <li>Emma</li>
-        <li>Eve</li>
-        <li>George</li>
-        <li>George</li>
-        <li>Idil</li>
-        <li>Jay</li>
-        <li>Jia</li>
-        <li>Katie</li>
-        <li>Keb</li>
-        <li>Kennice</li>
-        <li>Kira</li>
-        <li>Lara</li>
-        <li>Luca</li>
-        <li>Malachi</li>
-        <li>Matek</li>
-        <li>Mateo</li>
-        <li>Noah</li>
-        <li>Rahil</li>
-        <li>Rain Jha</li>
-        <li>Riddhi</li>
-        <li>Riya</li>
-        <li>Sharv</li>
-        <li>Simran</li>
-        <li>Vincent</li>
-        <li>Vivi</li>
-        <li>Zihan</li>
-    </ul>
+    {{% columns %}}
+
+    #### Title 1
+
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+    {{< hint warning >}}
+    Example text that *may* contain **markdown** `markup`.
+    {{< /hint >}}
+
+    <--->
+
+    #### Title 2
+
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+
+    <--->
+
+    #### Title 3
+
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[^columntest]
+
+    {{% /columns %}}
 {{% /details %}}
