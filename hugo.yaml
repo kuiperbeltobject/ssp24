@@ -71,4 +71,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/kuiperbeltobject/ssp24/edit/main/content"
