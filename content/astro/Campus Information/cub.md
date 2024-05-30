@@ -10,7 +10,7 @@ sidebar:
 
 **Arrive Sunday, June 16 – Depart Wednesday, July 24**
 
-*Plan to arrive at campus between 3-4 PM on June 9. Families should depart at 5 PM, and they may choose to attend an optional Q&A session. Students will be transported to campus if their flight arrives before 2 PM. Students will be transported away from campus on July 17th if their flight arrives after 12:30 PM, or 1:30 PM for international students.*
+*Plan to arrive at campus between 3-4 PM on June 16. Families should depart at 5 PM, and they may choose to attend an optional Q&A session. Students will be transported to campus if their flight arrives before 2 PM. Students will be transported away from campus on July 24 if their flight arrives after 12:30 PM, or 1:30 PM for international students.*
 
 ## Campus Information
 {{< icon "location-marker" >}} **Boulder, CO 80309**
@@ -73,7 +73,7 @@ Ms. Kristin Mathew              | Site Director                 |  Science Educa
 
 ## Nearby Places
 ### Food
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1RlQ3J3kchsVRwgNxmQSaZc4AxP0HOfo&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1G_YQk1r5QRW-RmPkmgrkGojoWg1LG7E&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## Flight Information
 {{< callout type="info" >}}
