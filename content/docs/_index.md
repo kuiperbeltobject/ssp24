@@ -1,18 +1,5 @@
 ---
-title: Documentation
-next: first-page
+title: General Information
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+Welcome to the general information hub, where you'll find information about the program generally that may be useful to all campuses and subjects.

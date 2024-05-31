@@ -4,16 +4,9 @@ cascade:
     type: docs
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+Here are some of the subjects you'll be learning as part of the genomics project:
+**Genetics**: genetic evolution, DNA manipulation, PCR, and sequence analysis
+**Microbiology**: bacterial life cycle and growth dynamics
+**Mathematics**: rate equations, linear and non-linear curve fitting, biostatistics
+**Instrumentation**: optical measurement, integral feedback control
+**Bioinformatics**: handling and analyzing genetic sequences

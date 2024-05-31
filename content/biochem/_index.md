@@ -4,16 +4,8 @@ cascade:
     type: docs
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+Here are some of the subjects you'll be learning as part of the biochemistry project:
+**Biochemistry**: protein purification, gel electrophoresis, enzyme assays, kinetics, and inhibition, drug screening
+**Molecular Modeling**:  homology modeling, ligand docking, molecular dynamics simulations, inhibitor optimization
+**Mathematics**: rate equations, linear and non-linear curve fitting, biostatistics
+**Bioinformatics**: Sequence similarity searching, multiple sequence alignment, secondary structure, and binding motif prediction
