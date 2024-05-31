@@ -2,6 +2,8 @@
 title: What to Pack
 type: docs
 next: absences
+prev: /
+weight: 1
 ---
 
 ## Required Item List

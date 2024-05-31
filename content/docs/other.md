@@ -1,6 +1,7 @@
 ---
 title: Other Information
 type: docs
+weight: 5
 ---
 
 ## Computers and Internet

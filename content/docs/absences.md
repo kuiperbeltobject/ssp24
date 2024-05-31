@@ -2,6 +2,7 @@
 title: Late Arrivals, Early Departures, and Absences
 type: docs
 next: visitors
+weight: 2
 ---
 
 Generally, SSP is unable to acommodate people arriving before or after Arrival Day. International students may contact the SSP staff to check available options.

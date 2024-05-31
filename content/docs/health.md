@@ -2,6 +2,7 @@
 title: Health and Wellness
 type: docs
 next: other
+weight: 4
 ---
 
 SSP will follow best practices according to the Centers for Disease Control and host campuses. Everyone is expected to arrive on campus fuly vaccinated for COVID-19 and other diseases according to the instructions provided during enrollment.
